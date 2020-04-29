@@ -1,6 +1,6 @@
 title: self refrsh - developer blog
 author: Dae Woo Kim
-email: your-email@domain.com
+email: linkedin@linkedin.linkedin
 description: developer, 개발자, Microsoft, Google, Amazon, Azure, GCP, AWS, 클라우드, Cloud
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: /texture
@@ -18,7 +18,7 @@ texture:
   style: blue
   showNav: true
   showPicker: true
-  disqus_shortname: disqus_hlmgFtxXfb
+  disqus_shortname: 
 
   # generate social links in footer
   social_links:
