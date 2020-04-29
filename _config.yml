@@ -16,9 +16,10 @@ texture:
   title: self refrsh - developer blog
   tagline: developer, 개발자, Microsoft, Google, Amazon, Azure, GCP, AWS, 클라우드, Cloud
   date_format: "%Y-%c-%d"
-  style: black
-  showNav: false
+  style: blue
+  showNav: true
   showPicker: true
+  disqus_shortname: disqus_hlmgFtxXfb
 
   # generate social links in footer
   social_links:
