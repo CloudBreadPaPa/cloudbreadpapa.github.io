@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "about"
+layout: page
+title:  "About author"
 description: about page
+permalink: /about.html
 date:   2020-05-06 09:00:00 +0900
-categories: about
 ---
 
 # About
