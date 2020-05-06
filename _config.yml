@@ -12,14 +12,14 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: self refrsh - developer blog
+  title: try { cloud; } catch { knowledge, trend; } - 클라우드 개발자 블로그
   tagline: developer, 개발자, Microsoft, Google, Amazon, Azure, GCP, AWS, 클라우드, Cloud
   date_format: "%Y-%c-%d"
   style: blue
   showNav: true
-  showPicker: true
-  disqus_shortname: 
-
+  showPicker: false
+  # disqus_shortname: 
+  analytics_id: 'UA-165692168-1'
   # generate social links in footer
   social_links:
     twitter: uxkorea
@@ -30,8 +30,8 @@ texture:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - about.md
 
 # Build settings
 theme: texture
