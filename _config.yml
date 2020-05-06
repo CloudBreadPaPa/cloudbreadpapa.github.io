@@ -17,7 +17,7 @@ texture:
   date_format: "%Y-%c-%d"
   style: blue
   showNav: true
-  showPicker: false
+  showPicker: true
   disqus_shortname: 
 
   # generate social links in footer
