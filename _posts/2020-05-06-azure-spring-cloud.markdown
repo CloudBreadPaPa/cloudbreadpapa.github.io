@@ -12,12 +12,12 @@ categories: microsoft azure java spring cloud
 - [2019년 Azure Spring Cloud 공식발표](https://azure.microsoft.com/en-us/blog/introducing-azure-spring-cloud-fully-managed-service-for-spring-boot-microservices/)
 - [리눅스 on Microsoft Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
 - [Spring on Azure 소개 슬라이드](https://www.slideshare.net/Pivotal/azure-spring-cloud)
-![](/_posts/images/202005/2020-05-06-105858.png)
+![](assets/images/202005/2020-05-06-105858.png)
 
 # Trend
-![](/_posts/images/202005/2020-05-06-105856.png)
-(참고링크 : https://www.jetbrains.com/lp/devecosystem-2019/java/)
 - Spring, Spring/Boot 프레임워크 56% 이상 점유율
+![](assets/images/202005/2020-05-06-105856.png)
+(참고링크 : https://www.jetbrains.com/lp/devecosystem-2019/java/)
 
 # Azure Srping Cloud 장점
 [Azure Spring Cloud](https://docs.microsoft.com/en-us/azure/spring-cloud/spring-cloud-overview)의 장점
